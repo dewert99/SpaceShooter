@@ -35,7 +35,7 @@ int score = 0;
 int highscore = 0;
 int bossS = 0;
 
-boolean g1 = false, g2 = false, g3 = false, g4 = false, g5 = false, g6 = false, g7 = false, g8 = false;
+boolean g1 = true, g2 = false, g3 = false, g4 = false, g5 = false, g6 = false, g7 = false, g8 = false;
 
 
 void setup() {
