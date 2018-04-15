@@ -73,8 +73,8 @@ class Player extends GameObject {
     if (y > height-h/2) {
       y = height-h/2;
     }
-    if (y < 0+w/2) {
-      y = 0+w/2;
+    if (y < 0+w/2+175) {
+      y = 0+w/2+175;
     }
     gun.update();
   }

@@ -59,18 +59,18 @@ class GameEngine {
     }
   }
   void unlock(){
-    int rand = round(random(2000,5000));
+    int rand = round(random(1500,5000));
     if (score*20>rand  && g2 == false){
       g2 = true;
       add(new Glow());
       unlockplayer.play(1);
     }
-    if (score*7>rand && g3 == false){
+    if (score*9>rand && g3 == false){
       g3 = true;
       add(new Glow());
       unlockplayer.play(1);
     }
-    if (score*4>rand && g4 == false){
+    if (score*15>rand && g4 == false){
       g4 = true;
       add(new Glow());
       unlockplayer.play(1);
@@ -80,12 +80,12 @@ class GameEngine {
       add(new Glow());
       unlockplayer.play(1);
     }
-    if (score*5>rand && g6 == false){
+    if (score*6>rand && g6 == false){
       g6 = true;
       add(new Glow());
       unlockplayer.play(1);
     }
-    if (score*10>rand && g7 == false){
+    if (score*13>rand && g7 == false){
       g7 = true;
       add(new Glow());
       unlockplayer.play(1);

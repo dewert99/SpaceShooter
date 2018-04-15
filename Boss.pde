@@ -2,7 +2,7 @@ class Boss extends Enemy {
   int rateE;
   Boss() {
     x = width/2;
-    y = 100;
+    y = 75;
     vx = 0;
     vy = 0;
     pic = shipB;
