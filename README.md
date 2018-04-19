@@ -7,4 +7,4 @@ Note: I made the background for the title screen but no the other graphics and s
 
 [Download a Playable Version](https://drive.google.com/open?id=1vPLQ1JxcV8CIppa9ak-rjhb_8JENChsK)
 
-Download a demo Video
+[Download a demo Video](https://drive.google.com/open?id=1FaHI00Ton0vB2ctAs1ZZnKEv2GpTTnlT)
